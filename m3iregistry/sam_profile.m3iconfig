@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<m3i:Configuration xmlns:m3i="http://schema.mathworks.com/spec/M3I/config">
+    <m3i:Domain>
+        <name>SCP</name>
+        <canonicalUri>http://schema.mathworks.com/schemas/SCP.xmi</canonicalUri>
+        <compatibleUri>http://www.magicdraw.com/schemas/SCP.xmi</compatibleUri>
+        <module>sam_profile</module>
+        <matlabInterface>sam_profile_mi</matlabInterface>		
+        <prefix>scp</prefix>
+        <entryPoint>SCP_getConfiguration</entryPoint>
+    </m3i:Domain>
+</m3i:Configuration>

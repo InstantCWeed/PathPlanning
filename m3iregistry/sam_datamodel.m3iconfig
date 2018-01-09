@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<m3i:Configuration xmlns:m3i="http://schema.mathworks.com/spec/M3I/config">
+    <m3i:Domain>
+        <name>UML</name>
+        <canonicalUri>http://schema.omg.org/spec/UML/2.1.2</canonicalUri>
+        <compatibleUri>http://schema.omg.org/spec/UML/2.0</compatibleUri>
+        <compatibleUri>http://schema.omg.org/spec/UML/2.1.0</compatibleUri>
+        <compatibleUri>http://schema.omg.org/spec/UML/2.1.1</compatibleUri>
+        <compatibleUri>http://schema.omg.org/spec/UML/2.1.2/uml.xml</compatibleUri>
+        <compatibleUri>http://schema.omg.org/spec/UML/2.0/uml.xml</compatibleUri>
+        <compatibleUri>http://schema.omg.org/spec/UML/2.1.0/uml.xml</compatibleUri>
+        <compatibleUri>http://schema.omg.org/spec/UML/2.1.1/uml.xml</compatibleUri>
+        <module>sam_datamodel</module>
+        <matlabInterface>sam_datamodel_mi</matlabInterface>		
+        <prefix>uml</prefix>
+        <entryPoint>UML_getConfiguration</entryPoint>
+    </m3i:Domain>
+</m3i:Configuration>

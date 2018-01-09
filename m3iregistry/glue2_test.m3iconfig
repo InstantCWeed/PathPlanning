@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<m3i:Configuration xmlns:m3i="http://schema.mathworks.com/spec/M3I/config">
+    <m3i:Domain>
+        <name>GLUE2Test</name>
+        <canonicalUri>http://schema.mathworks.com/schemas/GLUE2Test.xmi</canonicalUri>
+        <module>glue2_test</module>
+        <prefix>GLUE2Test</prefix>
+        <entryPoint>GLUE2Test_getConfiguration</entryPoint>
+    </m3i:Domain>
+</m3i:Configuration>
